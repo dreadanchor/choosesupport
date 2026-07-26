@@ -1,6 +1,6 @@
 VERSION = "15.15.1"
 
-pool = [
+pool = [ # Talvez isso nem seja usado
     "Lulu",
     "Alistar",
     "Rakan",
